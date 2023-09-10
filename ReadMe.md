@@ -1,4 +1,4 @@
-<center>
+
 # 💫 About Me:
 💬Eu sou um Dev Front-End sempre em busca de melhorar.<br>💬(I am a Front-End Dev always striving to improve).
 
@@ -21,4 +21,4 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-</center>
+
